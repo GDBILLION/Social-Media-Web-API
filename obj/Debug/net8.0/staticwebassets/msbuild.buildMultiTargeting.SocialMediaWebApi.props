@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SocialMediaWebApi.props" />
+</Project>
