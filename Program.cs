@@ -94,7 +94,23 @@ namespace SocialMediaWebApi
                     ValidateIssuerSigningKey = true,
                     IssuerSigningKey = new SymmetricSecurityKey(
                         System.Text.Encoding.UTF8.GetBytes(builder.Configuration["JWT:SigningKey"])
-                        )
+                        ),
+                    ValidateLifetime = true,
+                    ClockSkew = TimeSpan.Zero,
+                };
+                // Log errors
+                options.Events = new JwtBearerEvents
+                {
+                    OnAuthenticationFailed = context =>
+                    {
+                        Console.WriteLine($"JWT Error: {context.Exception.Message}");
+                        return Task.CompletedTask;
+                    },
+                    OnChallenge = context =>
+                    {
+                        Console.WriteLine("JWT Challenge Triggered");
+                        return Task.CompletedTask;
+                    }
                 };
             });
 

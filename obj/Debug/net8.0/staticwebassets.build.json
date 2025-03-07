@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "W04xYB3QNN82l+y9Yc0oks0jogT6MsDfN9Rbxau/Llk=",
+  "Hash": "zHZYW/QYOfbx4BlOPHrs1XsuiTrbyJyRqIL0vqT6flA=",
   "Source": "SocialMediaWebApi",
   "BasePath": "_content/SocialMediaWebApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }

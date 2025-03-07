@@ -52,7 +52,7 @@ namespace SocialMediaWebApi.Repositories
             {
                 Content = Post.Content,
                 CreatedAt = Post.CreatedAt,
-                UserId = int.Parse(Post.UserId)
+                UserId = Post.UserId
             };
         }
 

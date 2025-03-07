@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Social-Media-Web-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C619AE-2A15-4368-AC34-3A54F327BF0C}|SocialMediaWebApi.csproj|c:\\users\\user\\source\\repos\\social-media-web-api\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C619AE-2A15-4368-AC34-3A54F327BF0C}|SocialMediaWebApi.csproj|solutionrelative:controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C619AE-2A15-4368-AC34-3A54F327BF0C}|SocialMediaWebApi.csproj|c:\\users\\user\\source\\repos\\social-media-web-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C619AE-2A15-4368-AC34-3A54F327BF0C}|SocialMediaWebApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C619AE-2A15-4368-AC34-3A54F327BF0C}|SocialMediaWebApi.csproj|c:\\users\\user\\source\\repos\\social-media-web-api\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C619AE-2A15-4368-AC34-3A54F327BF0C}|SocialMediaWebApi.csproj|solutionrelative:repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Social-Media-Web-API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Social-Media-Web-API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAcwHEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:55:47.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Social-Media-Web-API\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Social-Media-Web-API\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:28:34.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Social-Media-Web-API\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Social-Media-Web-API\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "Repositories\\PostRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:26:59.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
